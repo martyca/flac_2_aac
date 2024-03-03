@@ -1,5 +1,5 @@
 # flac_2_aac
-docker image that take all flac files from the current folder and converts them to m4a using the aac code at a constant bitrate of 320.
+docker image that take all flac files from the current folder and converts them to m4a using the aac code at a constant bitrate of 256.
 ## Installation
 `docker pull martyca/flac_2_aac:latest`
 ## Usage

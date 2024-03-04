@@ -1,5 +1,5 @@
 # flac_2_aac
-Converts flac files from the current folder to m4a using the aac code at a constant bitrate of 256.
+Converts flac files from the current folder to m4a using the aac codec at a constant bitrate of 256.
 ## Installation
 `docker pull martyca/flac_2_aac:latest`
 ## Usage
@@ -26,8 +26,5 @@ ffmpeg:4.4-ubuntu
 ## References
 #### FFMPEG
 https://ffmpeg.org/
-#### MP3 Codec
-https://lame.sourceforge.io/
 #### AAC Codec
 https://en.wikipedia.org/wiki/Advanced_Audio_Coding
-
